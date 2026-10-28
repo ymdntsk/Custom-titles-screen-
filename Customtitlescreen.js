@@ -5,7 +5,7 @@
 /*:
  * @target MZ
  * @plugindesc Tela inicial customizável: fundo trocável e botões em imagem com hover, em qualquer posição.
- * @author @ymdntsk
+ * @author ymdntsk
  *
  * @help
  * ============================================================================
